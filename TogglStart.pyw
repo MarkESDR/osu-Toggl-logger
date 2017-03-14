@@ -2,7 +2,7 @@ import sys
 
 from TogglApi import TogglAPI, TogglConfig
 
-cfg = TogglConfig(cfg_path="Settings.txt")
+cfg = TogglConfig(cfg_path="Settings.ini")
 
 desc = cfg.DEFAULT_DESCRIPTION
 if len(sys.argv)>1 and cfg.SONG_AS_DESCRIPTION:
