@@ -1,0 +1,7 @@
+[Toggl Info]
+ApiToken = LettersAndNumbers
+PID = Numbers
+
+[Settings]
+SongAsDescription = 1
+DefaultDescription = Clicking Circles!
